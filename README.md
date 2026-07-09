@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shivam-1812/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Shivam-1812/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/Shivam-1812/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Shivam-1812/LeetCode/tree/master/0135-candy) |
@@ -42,5 +43,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Shivam-1812/LeetCode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Shivam-1812/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0680-valid-palindrome-ii](https://github.com/Shivam-1812/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shivam-1812/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
