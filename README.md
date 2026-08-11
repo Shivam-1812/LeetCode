@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shivam-1812/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/Shivam-1812/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Shivam-1812/LeetCode/tree/master/0135-candy) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivam-1812/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Shivam-1812/LeetCode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Shivam-1812/LeetCode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Shivam-1812/LeetCode/tree/master/0141-linked-list-cycle) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivam-1812/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Shivam-1812/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivam-1812/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivam-1812/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Shivam-1812/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
