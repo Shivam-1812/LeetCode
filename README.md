@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivam-1812/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Shivam-1812/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/Shivam-1812/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Shivam-1812/LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Shivam-1812/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Shivam-1812/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Shivam-1812/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/Shivam-1812/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Shivam-1812/LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Shivam-1812/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivam-1812/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
