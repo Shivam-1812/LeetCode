@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivam-1812/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Shivam-1812/LeetCode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Shivam-1812/LeetCode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivam-1812/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Shivam-1812/LeetCode/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/Shivam-1812/LeetCode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam-1812/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shivam-1812/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
