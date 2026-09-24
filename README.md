@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shivam-1812/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Shivam-1812/LeetCode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Shivam-1812/LeetCode/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/Shivam-1812/LeetCode/tree/master/0412-fizz-buzz) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivam-1812/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shivam-1812/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivam-1812/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Shivam-1812/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Shivam-1812/LeetCode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Shivam-1812/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivam-1812/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
@@ -132,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Shivam-1812/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Shivam-1812/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
