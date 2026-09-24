@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Shivam-1812/LeetCode/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam-1812/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivam-1812/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/Shivam-1812/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivam-1812/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Shivam-1812/LeetCode/tree/master/3731-find-missing-elements) |
 ## Greedy
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivam-1812/LeetCode/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Shivam-1812/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
