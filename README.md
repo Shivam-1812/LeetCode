@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Shivam-1812/LeetCode/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam-1812/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivam-1812/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivam-1812/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/Shivam-1812/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivam-1812/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivam-1812/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Shivam-1812/LeetCode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Shivam-1812/LeetCode/tree/master/0141-linked-list-cycle) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivam-1812/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivam-1812/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Shivam-1812/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shivam-1812/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Shivam-1812/LeetCode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Shivam-1812/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivam-1812/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivam-1812/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
