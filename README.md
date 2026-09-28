@@ -139,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Shivam-1812/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Shivam-1812/LeetCode/tree/master/1929-concatenation-of-array) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Shivam-1812/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
