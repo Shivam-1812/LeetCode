@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shivam-1812/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Shivam-1812/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Shivam-1812/LeetCode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivam-1812/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Shivam-1812/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/Shivam-1812/LeetCode/tree/master/0134-gas-station) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shivam-1812/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Shivam-1812/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Shivam-1812/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shivam-1812/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shivam-1812/LeetCode/tree/master/0015-3sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shivam-1812/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivam-1812/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivam-1812/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
